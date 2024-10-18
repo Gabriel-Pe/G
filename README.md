@@ -1,2 +1,2 @@
-# G
+# About me
 My personal repository
